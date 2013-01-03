@@ -20,6 +20,7 @@ Maintainers (CyanogenMod 10):
 * __LG Optimus Black {P970):__ arcee
 * __LG Optimus LTE (P930) / LG Nitro HD {P935):__ arcee
 * __LG Optimus LTE (SK Telecom) (SU640):__ arcee
+* __Motorola Triumph (CDMA):__ rukin5197 (Team MTDEV)
 * __Motorola Xoom (WiFi):__ bazar, SteadyHawkin, TDR (Team Rogue)
 * __Motorola Xoom 3G (UMTS):__ bazar, SteadyHawkin, TDR (Team Rogue)
 * __Motorola Xoom 4G LTE (Verizon):__ bazar, SteadyHawkin, TDR (Team Rogue)
